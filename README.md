@@ -31,15 +31,13 @@ Data analytics professional with experience in business intelligence, analytical
 
 ![Analytics Intelligence Lab](assets/lab-logo.svg)
 
-Independent portfolio projects developed with AI assistance and synthetic data. Explore the interactive products below.
+Explore the interactive products below.
 
 | Product | Demonstration | Technical repository |
 | --- | --- | --- |
 | Data Reconciliation Engine | [Launch data quality audit](https://dgalkan-data-quality.streamlit.app) | [Source](https://github.com/DgAlkan/data-reconciliation-engine) |
 | Decision Intelligence Platform | [Launch operational analytics](https://dgalkan-decision-intelligence.streamlit.app) | [Source](https://github.com/DgAlkan/decision-intelligence-plataform) |
 | Customer Journey Intelligence | [Launch lifecycle analytics](https://dgalkan-customer-journey.streamlit.app) | [Source](https://github.com/DgAlkan/customer-journey-intelligence) |
-
-Version 1.1 CI approval was confirmed by owner-provided screenshots. Version 2.2 adds shared product navigation and methodological explanations; latest CI and anonymous access remain to be verified. Source repositories may require authorization. Never upload confidential data.
 
 ## Professional development
 
