@@ -2,54 +2,22 @@
 
 [English](README.md) | **Português (Brasil)**
 
-## Sobre mim
-
-Profissional de análise de dados com experiência em business intelligence, modelagem analítica, qualidade de dados e automação de processos. Meu trabalho conecta questões de negócio a dados confiáveis, métodos reproduzíveis e insights que orientam decisões.
+Profissional de análise de dados com experiência em business intelligence, modelagem analítica, qualidade de dados e automação.
 
 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
-## Áreas de atuação
+## Analytics Intelligence Lab
 
-| Domínio | Foco |
+[Explore meu portfólio](https://dgalkan-analytics-lab.streamlit.app)
+
+| Produto | Aplicação |
 | --- | --- |
-| Análise de negócios | Definição de KPIs, desempenho operacional e apoio à decisão |
-| Qualidade de dados | Conciliação, verificações de integridade e regras de negócio |
-| Modelagem analítica | Jornadas longitudinais, retenção e modelos dimensionais |
-| Automação | Fluxos analíticos reproduzíveis e geração de evidências |
+| Data Reconciliation Engine | [Qualidade e conciliação de dados](https://dgalkan-data-quality.streamlit.app) |
+| Decision Intelligence Platform | [Análise operacional e de negócios](https://dgalkan-decision-intelligence.streamlit.app) |
+| Customer Journey Intelligence | [Ciclo de vida e retenção de clientes](https://dgalkan-customer-journey.streamlit.app) |
+
+As demonstrações utilizam dados sintéticos.
 
 ## Tecnologias
 
-**Linguagens:** SQL · Python · R
-
-**Analytics e BI:** Power BI · DAX · Power Query · Pandas
-
-**Plataformas de dados:** Microsoft Fabric · Databricks · Amazon Redshift
-
-**Ferramentas do portfólio:** Streamlit · DuckDB · Pytest · GitHub Actions
-
-## Analytics Intelligence Lab — Demonstrações interativas
-
-![Analytics Intelligence Lab](assets/lab-logo.svg)
-
-Explore os produtos interativos abaixo.
-
-| Produto | Demonstração | Repositório técnico |
-| --- | --- | --- |
-| Data Reconciliation Engine | [Explorar auditoria de qualidade de dados](https://dgalkan-data-quality.streamlit.app) | [Código-fonte](https://github.com/DgAlkan/data-reconciliation-engine) |
-| Decision Intelligence Platform | [Explorar análise operacional](https://dgalkan-decision-intelligence.streamlit.app) | [Código-fonte](https://github.com/DgAlkan/decision-intelligence-plataform) |
-| Customer Journey Intelligence | [Explorar análise do ciclo de vida](https://dgalkan-customer-journey.streamlit.app) | [Código-fonte](https://github.com/DgAlkan/customer-journey-intelligence) |
-
-## Desenvolvimento profissional
-
-Explorando arquiteturas modernas de dados, fluxos analíticos escaláveis, inteligência de decisão e IA aplicada.
-
-## Princípios profissionais
-
-- Definir a questão de negócio antes de escolher a tecnologia.
-- Explicitar a qualidade dos dados e as premissas analíticas.
-- Construir soluções reproduzíveis com limitações documentadas.
-- Proteger informações confidenciais e utilizar dados sintéticos em demonstrações públicas.
-
----
-
-*Transformando dados em inteligência. Inteligência em decisões.*
+SQL · Python · R · Power BI · DAX · Power Query · Pandas · Microsoft Fabric · Databricks · Amazon Redshift · DuckDB · Streamlit · Pytest · GitHub Actions
