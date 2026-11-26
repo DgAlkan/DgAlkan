@@ -31,15 +31,13 @@ Profissional de análise de dados com experiência em business intelligence, mod
 
 ![Analytics Intelligence Lab](assets/lab-logo.svg)
 
-Projetos independentes de portfólio desenvolvidos com auxílio de IA e dados sintéticos. Explore os produtos interativos abaixo.
+Projetos independentes de portfólio. Explore os produtos interativos abaixo.
 
 | Produto | Demonstração | Repositório técnico |
 | --- | --- | --- |
 | Data Reconciliation Engine | [Explorar auditoria de qualidade de dados](https://dgalkan-data-quality.streamlit.app) | [Código-fonte](https://github.com/DgAlkan/data-reconciliation-engine) |
 | Decision Intelligence Platform | [Explorar análise operacional](https://dgalkan-decision-intelligence.streamlit.app) | [Código-fonte](https://github.com/DgAlkan/decision-intelligence-plataform) |
 | Customer Journey Intelligence | [Explorar análise do ciclo de vida](https://dgalkan-customer-journey.streamlit.app) | [Código-fonte](https://github.com/DgAlkan/customer-journey-intelligence) |
-
-A aprovação dos testes de integração contínua (CI) da versão 1.1 foi confirmada por capturas de tela fornecidas pelo responsável pelos projetos. A versão 2.2 acrescenta navegação integrada entre produtos e explicações metodológicas; a execução mais recente dos testes e o acesso anônimo ainda precisam ser verificados. Os repositórios podem exigir autorização. Nunca envie dados confidenciais.
 
 ## Desenvolvimento profissional
 
