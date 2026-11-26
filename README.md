@@ -25,17 +25,19 @@ Data analytics professional with experience in business intelligence, analytical
 
 **Portfolio tools:** Streamlit · DuckDB · Pytest · GitHub Actions
 
-## Featured projects
+## Analytics Intelligence Lab — Live demos
 
-The Analytics Intelligence Lab is an independent portfolio of reproducible analytical solutions, developed with AI assistance using synthetic data.
+![Analytics Intelligence Lab](assets/lab-logo.svg)
 
-| Project | What it demonstrates | Status |
+Independent portfolio projects developed with AI assistance and synthetic data. Explore the interactive products below.
+
+| Product | Demonstration | Technical repository |
 | --- | --- | --- |
-| [Data Reconciliation Engine](https://github.com/DgAlkan/data-reconciliation-engine) | Schema validation, field-level reconciliation and Excel evidence | Private · initial implementation |
-| [Decision Intelligence Platform](https://github.com/DgAlkan/decision-intelligence-plataform) | Operational KPIs and scenario simulation | Private · initial implementation |
-| [Customer Journey Intelligence](https://github.com/DgAlkan/customer-journey-intelligence) | Lifecycle classification and activity cohorts | Private · initial implementation |
+| Data Reconciliation Engine | [Launch data quality audit](https://dgalkan-data-quality.streamlit.app) | [Source](https://github.com/DgAlkan/data-reconciliation-engine) |
+| Decision Intelligence Platform | [Launch operational analytics](https://dgalkan-decision-intelligence.streamlit.app) | [Source](https://github.com/DgAlkan/decision-intelligence-plataform) |
+| Customer Journey Intelligence | [Launch lifecycle analytics](https://dgalkan-customer-journey.streamlit.app) | [Source](https://github.com/DgAlkan/customer-journey-intelligence) |
 
-Repository access is currently restricted while technical validation is underway. Automated tests are configured; execution and deployment are pending verification.
+Version 1.1 CI approval was confirmed by owner-provided screenshots. Version 2.2 adds shared product navigation and methodological explanations; latest CI and anonymous access remain to be verified. Source repositories may require authorization. Never upload confidential data.
 
 ## Professional development
 
