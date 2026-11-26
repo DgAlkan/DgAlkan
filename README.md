@@ -1,5 +1,7 @@
 ![Rodrigo Alcantara — Analytics Intelligence Lab](assets/banner.svg)
 
+**English** | [Português (Brasil)](README.pt-BR.md)
+
 ## About me
 
 Data analytics professional with experience in business intelligence, analytical modeling, data quality and process automation. My work connects business questions with reliable data, reproducible methods and actionable insights.
