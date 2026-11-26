@@ -31,7 +31,7 @@ Profissional de análise de dados com experiência em business intelligence, mod
 
 ![Analytics Intelligence Lab](assets/lab-logo.svg)
 
-Projetos independentes de portfólio. Explore os produtos interativos abaixo.
+Explore os produtos interativos abaixo.
 
 | Produto | Demonstração | Repositório técnico |
 | --- | --- | --- |
