@@ -54,4 +54,4 @@ else:
     st.write(tr("Reprodutibilidade, qualidade, transparência metodológica e proteção de informações confidenciais.","Reproducibility, quality, methodological transparency and confidentiality."))
 st.divider()
 st.markdown("[GitHub · DgAlkan](https://github.com/DgAlkan)")
-st.caption(tr("Portfólio independente desenvolvido com assistência de IA. Resultados sintéticos não representam desempenho empresarial real.","Independent portfolio developed with AI assistance. Synthetic results do not represent actual business performance."))
+st.caption(tr("Portfólio independente. Resultados sintéticos não representam desempenho empresarial real.","Independent portfolio. Synthetic results do not represent actual business performance."))
